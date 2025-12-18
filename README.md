@@ -1,5 +1,4 @@
 🚀 PS-1: Early Alert System for Girl Student Dropout Risk
-!(https://www.google.com/search?q=https://img.shields.io/badge/Status-Prototype-green)!(https://img.shields.io/badge/AI-XGBoost-blue)
 
 📖 Project Overview
 A machine-learning powered Android application designed for rural Indian schools to predict dropout risks among girl students. The system operates offline-first, performing inference on the edge device to overcome connectivity barriers. It integrates with Renault Nissan's CSR initiatives (Blossom Bus) to provide logistical interventions.
