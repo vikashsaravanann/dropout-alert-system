@@ -1,0 +1,18 @@
+
+PITCH SCRIPT – 2 MINUTES
+
+Good morning respected judges.
+
+In many parts of India, one in five girls drops out of school before completing secondary education.
+The warning signs appear early – poor attendance, declining marks, health-related absences – but schools lack tools to act in time.
+
+Our solution is an AI-powered Early Alert System that predicts dropout risk for girl students.
+Using attendance, academic trends, socio-economic and health indicators, our system assigns a risk score: low, medium, or high.
+
+When a student is flagged, automatic alerts are sent to teachers, NGOs, and authorities,
+enabling timely counselling, financial aid, or community intervention.
+
+The system is privacy-preserving, low-cost, and scalable across rural schools.
+By combining technology with social responsibility, we ensure no girl is left behind.
+
+Thank you.
